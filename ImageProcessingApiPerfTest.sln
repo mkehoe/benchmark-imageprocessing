@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingApiPerfTest", "ImageProcessingApiPerfTest.csproj", "{BA2F01D7-2D06-4E0B-8755-F8A405383BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2F01D7-2D06-4E0B-8755-F8A405383BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2F01D7-2D06-4E0B-8755-F8A405383BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2F01D7-2D06-4E0B-8755-F8A405383BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2F01D7-2D06-4E0B-8755-F8A405383BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
